@@ -1,2 +1,2 @@
 # script_collection_PGO
-Simple to plot phonon data obtained via the ABINIT code
+Simple scripts to plot phonon data (frequencies, interatomic force constants and angular momentum) obtained via the ABINIT code
